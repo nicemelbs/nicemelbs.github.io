@@ -22,7 +22,11 @@ body {
 .next-steps {
     background-color: #15253c;
     color: #ffffff;
-    padding: 20px;
+    padding: 20px 15px;
+}
+
+.next-steps ol {
+    padding-left: 15px;
 }
 
 .next-steps .label {
