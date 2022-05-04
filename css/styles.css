@@ -1,0 +1,12 @@
+.content {
+    border: 1px solid red;
+}
+
+.label {
+    font-weight: bold;
+}
+
+/*add a colon after span.label*/
+.info .label:after {
+    content: ":";
+}
