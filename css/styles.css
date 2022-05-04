@@ -3,9 +3,17 @@
 
 .label {
     font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 40px;
 }
 
 /*add a colon after span.label*/
 .info .label:after {
     content: ":";
+}
+
+.next-steps {
+    background-color: #15253c;
+    color: #ffffff;
+    padding: 50px;
 }
